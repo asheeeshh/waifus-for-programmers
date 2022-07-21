@@ -43,11 +43,11 @@ const Hero = () => {
             </chakra.a>{" "}
             made by{" "}
             <chakra.a
-              href="https://github.com/asheeeshh"
+              href="https://github.com/asrvd"
               textDecoration={"underline"}
               color="cyan.300"
             >
-              @asheeeshh
+              @asrvd
             </chakra.a>
             .
           </chakra.p>
